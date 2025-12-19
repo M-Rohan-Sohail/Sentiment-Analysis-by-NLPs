@@ -13,7 +13,7 @@ The focus of this project is **practical NLP implementation**, including data cl
 - Approach: N-gram based text vectorization + neural network
 
 This project was built to **understand NLP fundamentals end-to-end**, starting from raw CSV data to a working sentiment prediction model.
-
+DataSet Link **https://www.kaggle.com/datasets/mansithummar67/171k-product-review-with-sentiment-dataset**
 ---
 
 ## 🧠 Key Concepts Covered
